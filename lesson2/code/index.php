@@ -51,4 +51,4 @@ if ($count2 < count($arr2)) {
 }
 
 
-var_dump($result);
+var_dump();
